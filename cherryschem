@@ -1,0 +1,4 @@
+mv cherry_blossom_tree.schem builds/trees/
+git add builds/trees/cherry_blossom_tree.schem
+git commit -m "Add cherry blossom schematic"
+git push
